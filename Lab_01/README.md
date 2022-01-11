@@ -1,4 +1,5 @@
 # Лабораторная работа №1 - Алгоритмы поиска редакционного расстояния
+Консольное приложение, получает на вход 2 строки и вычисляет редакционное расстояние между ними тремя реализациями
 Язык разработки: C++
 
 ## Задание на лабораторную работу 
@@ -27,3 +28,17 @@
 ![alt](./Readme_sources/D_L_Mtx.png) ![alt](./Readme_sources/L_Mtx.png)
 
 
+## Пример работы программы
+<p align="center">
+  <img src="./Readme_sources/Example.jpg">
+</p>
+
+## Сравнение реализаций
+<p align="center">
+  <img src="./Readme_sources/Test.jpg">
+</p>
+
+<table><tr>
+<td> <img src="./Readme_sources/graphic.png" alt="Drawing" style="width: 600px;"/> </td>
+<td> <img src="./Readme_sources/graphic2.png" alt="Drawing" style="width: 600px;"/> </td>
+</tr></table>
